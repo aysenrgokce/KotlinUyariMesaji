@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         })*/
 
 
-        Toast.makeText(this,"helloo",Toast.LENGTH_LONG).show()
+        Toast.makeText(this,"hello",Toast.LENGTH_LONG).show()
     }
     fun uyarıButton(view: View){
         val alert = AlertDialog.Builder(this@MainActivity)
